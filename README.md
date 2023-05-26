@@ -2,7 +2,7 @@
 
 ## :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover:
 
-- 🌱 I’m currently learning deeplearning and making some points
+- 🌱 I’m currently learning deeplearning and making some point
 <!--
 **VangsillEE/VangsillEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
