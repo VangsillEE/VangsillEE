@@ -1,10 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Vangsil2%Github&fontSize=90" />
 
-## :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover:
-
-- 🌱 I’m currently learning deeplearning and making some point
-
-- ⚡ I’m interested in image generation and multimodal.
 <!--
 **VangsillEE/VangsillEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
